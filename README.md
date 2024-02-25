@@ -1,3 +1,3 @@
 # PORTFOLIO
 My Portfolio Website
-Visit Here https://dlinovl.netlify.app
+Visit Here https://dhiolnvl.github.io/portfolio.io/
